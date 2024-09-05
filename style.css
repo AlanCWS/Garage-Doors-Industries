@@ -2370,7 +2370,7 @@ This is shared
 
   .shared-top-contact-tile {
     box-shadow: 1px 1px 1.75px 1.5px black;
-    width: 60%;
+    width: 50%;
     border: none;
     background-color: white;
     margin: 1rem auto 0;
@@ -2386,7 +2386,7 @@ This is shared
   }
 
   .shared-top-contact-header h4 {
-    font-size: 1.9rem;
+    font-size: 1.8rem;
   }
 
   .shared-top-contact-text {
@@ -2397,7 +2397,7 @@ This is shared
   }
 
   .shared-top-contact-text p {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
   }
 
   .shared-top-contact-buttons {
@@ -2413,11 +2413,11 @@ This is shared
     border: none;
     border-radius: 3px;
     padding: 0.5em;
-    margin: 1.5rem 5.75rem 1.5rem;
+    margin: 1.5rem 4.25rem 1.5rem;
     margin-right: auto;
     color: white;
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1rem;
     background-color: var(--baseblue);
     cursor: pointer;
     transition: all 0.4s ease;
@@ -7466,7 +7466,7 @@ Navigation
 
   .designed-by__container p {
     text-align: center;
-    font-size: 0.6rem;
+    font-size: 0.5rem;
     color: white;
   }
 }
@@ -7537,7 +7537,7 @@ Navigation
   
   .designed-by__container p {
     text-align: center;
-    font-size: 0.65rem;
+    font-size: 0.5rem;
     color: white;
   }
 }
