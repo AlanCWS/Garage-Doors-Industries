@@ -6101,7 +6101,8 @@ shared-top-hero-banner
   }
 
   .hero-button-container {
-    width: 50%;
+    width: 40%;
+    outline: auto;
     margin: 0.75rem auto 0;
     margin-right: auto;
     display: flex;
@@ -6114,7 +6115,8 @@ shared-top-hero-banner
     font-weight: 600;
     font-size: 1.3rem;
     color: white;
-    margin: 0.75rem 5.25rem 0;
+    display: block;
+    margin: 0.75rem 4rem 0;
     margin-right: auto;
     background-color: var(--baseblue);
     cursor: pointer;
