@@ -6073,14 +6073,14 @@ shared-top-hero-banner
 @media only screen and (769px <=width <=1024px) and (orientation:portrait) {
   .shared-top-hero-banner {
     display: grid;
-    width: 50%;
+    width: 42%;
     margin: 0.25rem auto 0;
     margin-right: auto;
     grid-template-columns: 1fr 1fr;
   }
 
   .shared-top-hero-banner img {
-    width: 14rem;
+    width: 12rem;
     border: none;
     border-radius: 3px;
     box-shadow: 0.5px 0.5px 1px 0.75px black;
@@ -6096,13 +6096,12 @@ shared-top-hero-banner
   .shared-top-banner-text ul li {
     text-decoration: none;
     list-style-type: none;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 600;
   }
 
   .hero-button-container {
     width: 50%;
-    outline: auto;
     margin: 0.75rem auto 0;
     margin-right: auto;
     display: flex;
