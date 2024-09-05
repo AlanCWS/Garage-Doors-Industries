@@ -2714,7 +2714,7 @@ This is shared
 
   .shared-top-contact-tile {
     box-shadow: 1px 1px 1.75px 1.5px black;
-    width: 45%;
+    width: 40%;
     border: none;
     background-color: white;
     margin: 1rem auto 0;
@@ -2745,7 +2745,10 @@ This is shared
   }
 
   .shared-top-contact-buttons {
-    width: 100%;
+    width: 95%;
+    margin: 0 auto 0;
+    margin-right: auto;
+    outline: auto;
     display: flex;
   }
 
@@ -2757,7 +2760,7 @@ This is shared
     border: none;
     border-radius: 3px;
     padding: 0.5em;
-    margin: 1.5rem 8rem 1.5rem;
+    margin: 1.5rem 7.5rem 1.5rem;
     margin-right: auto;
     color: white;
     font-weight: 600;
