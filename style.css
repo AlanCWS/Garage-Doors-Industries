@@ -2629,7 +2629,10 @@ This is shared
   }
 
   .shared-top-contact-buttons {
-    width: 100%;
+    width: 90%;
+    margin: 0 auto 0;
+    margin-right: auto;
+    outline: auto;
     display: flex;
   }
 
