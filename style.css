@@ -2413,7 +2413,7 @@ This is shared
     border: none;
     border-radius: 3px;
     padding: 0.5em;
-    margin: 1.5rem 4.25rem 1.5rem;
+    margin: 1.5rem 4.75rem 1.5rem;
     margin-right: auto;
     color: white;
     font-weight: 600;
@@ -2484,7 +2484,7 @@ This is shared
 
   .shared-top-contact-tile {
     box-shadow: 1px 1px 1.75px 1.5px black;
-    width: 60%;
+    width: 50%;
     border: none;
     background-color: white;
     margin: 1rem auto 0;
@@ -2527,7 +2527,7 @@ This is shared
     border: none;
     border-radius: 3px;
     padding: 0.5em;
-    margin: 1.25rem 5.75rem 1rem;
+    margin: 1.25rem 4.5rem 1rem;
     margin-right: auto;
     color: white;
     font-weight: 600;
