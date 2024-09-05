@@ -2632,7 +2632,6 @@ This is shared
     width: 90%;
     margin: 0 auto 0;
     margin-right: auto;
-    outline: auto;
     display: flex;
   }
 
@@ -2644,7 +2643,7 @@ This is shared
     border: none;
     border-radius: 3px;
     padding: 0.5em;
-    margin: 1rem 7.5rem 1.5rem;
+    margin: 1rem 7.25rem 1.5rem;
     margin-right: auto;
     color: white;
     font-weight: 600;
