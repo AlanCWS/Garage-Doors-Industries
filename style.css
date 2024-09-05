@@ -6102,10 +6102,12 @@ shared-top-hero-banner
 
   .hero-button-container {
     width: 40%;
-    outline: auto;
     margin: 0.75rem auto 0;
     margin-right: auto;
     display: flex;
+  }
+  .hero-button-container a {
+    text-decoration: none;
   }
 
   .hero-button-container__btn {
@@ -6116,7 +6118,7 @@ shared-top-hero-banner
     font-size: 1.3rem;
     color: white;
     display: block;
-    margin: 0.75rem 4rem 0;
+    margin: 0.75rem 4.25rem 0;
     margin-right: auto;
     background-color: var(--baseblue);
     cursor: pointer;
