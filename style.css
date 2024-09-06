@@ -2401,7 +2401,9 @@ This is shared
   }
 
   .shared-top-contact-buttons {
-    width: 100%;
+    width: 95%;
+    margin: 0 auto 0;
+    margin-right: auto;
     display: flex;
   }
 
@@ -2413,7 +2415,7 @@ This is shared
     border: none;
     border-radius: 3px;
     padding: 0.5em;
-    margin: 1.5rem 4.95rem 1.5rem;
+    margin: 1.5rem 5.25rem 1.5rem;
     margin-right: auto;
     color: white;
     font-weight: 600;
