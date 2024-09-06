@@ -2415,7 +2415,7 @@ This is shared
     border: none;
     border-radius: 3px;
     padding: 0.5em;
-    margin: 1.5rem 5rem 1.5rem;
+    margin: 1.5rem 4.75rem 1.5rem;
     margin-right: auto;
     color: white;
     font-weight: 600;
@@ -5997,7 +5997,7 @@ shared-top-hero-banner
   }
 
   .hero-button-container {
-    width: 35%;
+    width: 30%;
     margin: 0.75rem auto 0;
     margin-right: auto;
     display: flex;
@@ -6010,7 +6010,7 @@ shared-top-hero-banner
     font-weight: 600;
     font-size: 1rem;
     color: white;
-    margin: 0.5rem 2.25rem 0;
+    margin: 0.5rem 1.25rem 0;
     background-color: var(--baseblue);
     cursor: pointer;
     transition: all 0.4s ease;
